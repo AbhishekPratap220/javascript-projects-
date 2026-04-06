@@ -1,3 +1,0 @@
-new txt file write here
-add txt to first file 
-first text to python language
